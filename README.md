@@ -5,10 +5,11 @@
 
 <!-- Name + Icon, properly aligned -->
 <p align="center" style="font-size: 5em; font-weight: bold; line-height: 1.2;">
-  <span style="color:#bb86fc;">Yuno</span>
-  <span style="display: inline-block; position: relative; top: 12px; margin-left: 8px;">
+   <span style="display: inline-block; position: relative; top: 12px; margin-left: 8px;">
     <img src="https://i.imgur.com/Ki40EUE.gif" alt="icon" style="height: 2em;">
   </span>
+  <span style="color:#bb86fc;">Yuno</span>
+ 
 </p>
 
 <p align="center" style="margin-top: 5px;">
