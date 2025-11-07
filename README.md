@@ -8,6 +8,8 @@
   <i>all about liya</i>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=swaggkilla&color=6e40c9&style=for-the-badge&label=👁" />
+  <img src="https://komarev.com/ghpvc/?username=swaggkilla&color=6e40c9&style=for-the-badge&label=Views" />
 </p>
