@@ -16,12 +16,7 @@
 
 ---
 
-## 💬 About Me
-
-- 🌏 Based in: *Philippines*  
-- 💻 Love building: *Web & Backend systems*  
-- ⚡ Currently learning: *React, TypeScript, and Express.js*  
-- 🎯 Goal: *Become a full-stack developer & build cool open-source tools*  
+### KILLING SNITCH
 
 ---
 
