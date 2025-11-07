@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10" style="margin-right: 3px; vertical-align: middle;">
+  <img src="https://i.imgur.com/Ki40EUE.gif" width="30" style="margin-right: 3px; vertical-align: middle;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=6E40C9&center=false&vCenter=true&width=500&lines=Yo%2C+I'm+Yuno+👾" alt="Typing SVG" />
   </a>
