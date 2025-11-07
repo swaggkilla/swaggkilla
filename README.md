@@ -2,8 +2,6 @@
   <img src="https://i.imgur.com/1QgrNNw.png" width="150" style="border-radius:50%;" />
 </p>
 
-<h1 align="center">yuno</h1>
-
 <p align="center">
   <i>all about liya</i>
 </p>
