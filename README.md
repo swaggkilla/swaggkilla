@@ -7,9 +7,6 @@
 </p>
 
 ---
-
-<p align="center">🧠 Tech Stack</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -21,9 +18,7 @@
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
 ---
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=swaggkilla&color=6e40c9&style=for-the-badge&label=Views" />
 </p>
