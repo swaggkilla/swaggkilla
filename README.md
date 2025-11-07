@@ -3,15 +3,15 @@
   <img src="https://i.imgur.com/efXQ6Sq.gif" width="1000" style="border-radius:50%;" />
 </p>
 
-<!-- Name + Icon -->
-<p align="center" style="font-size: 2em; font-weight: bold;">
-  <img src="https://i.imgur.com/Ki40EUE.gif" 
-       alt="icon" 
-       style="height: 2em; vertical-align: middle; position: relative; top: 8px; margin-right: 8px;">
+<!-- Name + Icon, properly aligned -->
+<p align="center" style="font-size: 2em; font-weight: bold; line-height: 1.2; margin-top: 10px;">
+  <span style="display: inline-block; position: relative; top: 12px; margin-right: 8px;">
+    <img src="https://i.imgur.com/Ki40EUE.gif" alt="icon" style="height: 2em;">
+  </span>
   Yo, I'm <span style="color:#bb86fc;">Yuno</span> 👾
 </p>
 
-<p align="center">
+<p align="center" style="margin-top: 5px;">
   <i>A passionate developer from the Philippines, crafting digital experiences with code.</i>
 </p>
 
