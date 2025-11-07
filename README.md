@@ -6,13 +6,10 @@
 <h1 align="center">Yo, I'm Cedzu 👋</h1>
 
 <p align="center">
-  <i>A passionate developer from the Philippines, crafting digital experiences with code.</i>
+  <i>all about liya</i>
 </p>
 
 ---
-
-## 🌀 Profile Views
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=swaggkilla&color=6e40c9&style=for-the-badge&label=Profile+Views" />
 </p>
