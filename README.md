@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://i.imgur.com/Ki40EUE.gif" alt="icon" style="height: 2em; vertical-align: text-bottom; margin-bottom: -4px;">
+  <img src="https://i.imgur.com/Ki40EUE.gif" alt="icon" style="height: 2em; vertical-align: text-bottom; margin-bottom: -100px;">
   Yo, I'm <span style="color:#bb86fc;">Yuno</span> 👾
 </h1>
 
