@@ -5,9 +5,7 @@
 
 <div align="center">
   <img src="https://i.imgur.com/Ki40EUE.gif" width="35" style="vertical-align: middle; margin-right: 10px;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=bb86fc&center=true&vCenter=true&width=380&lines=yuno" alt="Typing SVG" />
-  </a>
+  Yo, I'm <span style="color:#bb86fc;">Yuno</span> 👾
 </div>
 
 <p align="center">
