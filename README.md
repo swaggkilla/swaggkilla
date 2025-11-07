@@ -3,7 +3,11 @@
   <img src="https://i.imgur.com/efXQ6Sq.gif" width="1000" style="border-radius:50%;" />
 </p>
 
-<h1 align="center">it's yuno</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=6E40C9&center=true&vCenter=true&width=500&lines=Yo%2C+I'm+Yuno+👋" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <i>A passionate developer from the Philippines, crafting digital experiences with code.</i>
