@@ -14,12 +14,6 @@
   <img src="https://komarev.com/ghpvc/?username=swaggkilla&color=6e40c9&style=for-the-badge&label=Profile+Views" />
 </p>
 
----
-
-### KILLING SNITCH
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=100&section=footer"/>
 </p>
