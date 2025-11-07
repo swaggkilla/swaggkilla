@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=swaggkilla&color=6e40c9&style=for-the-badge&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=swaggkilla&color=6e40c9&style=for-the-badge&label=👁" />
 </p>
