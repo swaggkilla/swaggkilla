@@ -1,15 +1,9 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://i.imgur.com/efXQ6Sq.gif" width="1000" style="border-radius:50%;" />
+  <img src="https://i.imgur.com/1QgrNNw.png" width="150" style="border-radius:50%;" />
 </p>
 
-<!-- Name + Icon -->
-<p align="center" style="font-size: 2em; font-weight: bold; line-height: 1.2;">
-  Yo, I'm <span style="color:#bb86fc;">Yuno</span> 👾
-  <span style="display: inline-block; position: relative; top: 12px; margin-left: 8px;">
-    <img src="https://i.imgur.com/Ki40EUE.gif" alt="icon" style="height: 2em;">
-  </span>
-</p>
+<h1 align="center">Yo, I'm Cedzu 👋</h1>
 
 <p align="center">
   <i>A passionate developer from the Philippines, crafting digital experiences with code.</i>
@@ -17,19 +11,10 @@
 
 ---
 
-## 🧩 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swaggkilla&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaggkilla&layout=compact&theme=tokyonight" height="165" />
-</p>
-
----
-
 ## 🌀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=swaggkilla&color=6e40c9&style=for-the-badge&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&color=6e40c9&style=for-the-badge&label=Profile+Views" />
 </p>
 
 ---
@@ -46,7 +31,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/swaggkilla" target="_blank">
+  <a href="https://github.com/YOURUSERNAME" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:yourname@example.com">
