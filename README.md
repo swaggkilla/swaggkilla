@@ -4,9 +4,9 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="margin-right: 10px;">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="margin-right: 10px; vertical-align: middle;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=6E40C9&center=false&vCenter=true&width=500&lines=yuno" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=6E40C9&center=false&vCenter=true&width=500&lines=Yo%2C+I'm+Yuno+👾" alt="Typing SVG" />
   </a>
 </div>
 
