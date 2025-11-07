@@ -3,12 +3,12 @@
   <img src="https://i.imgur.com/efXQ6Sq.gif" width="1000" style="border-radius:50%;" />
 </p>
 
-<p align="center">
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="margin-right: 10px;">
   <a href="https://git.io/typing-svg">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="margin-right: 10px;">
     <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=6E40C9&center=false&vCenter=true&width=500&lines=yuno" alt="Typing SVG" />
   </a>
-</p>
+</div>
 
 <p align="center">
   <i>A passionate developer from the Philippines, crafting digital experiences with code.</i>
