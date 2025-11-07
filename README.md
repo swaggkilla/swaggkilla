@@ -4,8 +4,12 @@
 </p>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=6E40C9&center=true&vCenter=true&width=500&lines=Yo%2C+I'm+Yuno+👋" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=6E40C9&center=true&vCenter=true&width=500&lines=yuno" alt="Typing SVG" />
   </a>
 </p>
 
