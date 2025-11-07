@@ -3,7 +3,10 @@
   <img src="https://i.imgur.com/efXQ6Sq.gif" width="1000" style="border-radius:50%;" />
 </p>
 
-<h1 align="center"><img src="https://i.imgur.com/Ki40EUE.gif"> Yo, I'm <span style="color:#bb86fc;">Yuno</span> 👾</h1>
+<h1 align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://i.imgur.com/Ki40EUE.gif" alt="icon" style="height: 1em;">
+  Yo, I'm <span style="color:#bb86fc;">Yuno</span> 👾
+</h1>
 
 <p align="center">
   <i>A passionate developer from the Philippines, crafting digital experiences with code.</i>
